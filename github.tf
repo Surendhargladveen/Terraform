@@ -9,7 +9,7 @@ terraform {
 }
 
 provider "github" {
-    token = "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"
+    token = "ghp_Tlz"
 }
 
 resource "github_repository" "Surendhar" {
@@ -18,3 +18,4 @@ resource "github_repository" "Surendhar" {
 }
 
 */
+
